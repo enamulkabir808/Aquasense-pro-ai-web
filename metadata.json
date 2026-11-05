@@ -1,0 +1,6 @@
+{
+  "name": "Aqua Sense Pro AI",
+  "description": "Intelligent Water Monitoring & Image-Based Water Quality, pH Level, and Aquaculture Assessment System",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
